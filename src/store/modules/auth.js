@@ -20,9 +20,6 @@ const auth = {
     SET_NAVBAR: (state, navBar) => {
       state.navBar = navBar;
     },
-    SET_ACTIVE_MENU: () => {
-
-    },
   },
 }
 
